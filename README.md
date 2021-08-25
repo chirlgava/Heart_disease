@@ -29,7 +29,7 @@ We used 4 types of classifier to predict data:
 <li>Support Vector Classifier:  1.0</li>
 <li>Decision Tree Classifier:  0.996</li>
 </ol> 
-**Learning Curves:** <br>
+**Learning Curves:** <br> test
 ![alt text](https://github.com/chirlgava/Credit_card/blob/main/figures/learning_curves.png)<br>
 **Model evaluation using test data:** <br>
 ![alt text](https://github.com/chirlgava/Credit_card/blob/main/figures/model_evaluation.png)
