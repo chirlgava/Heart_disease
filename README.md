@@ -6,7 +6,7 @@
 This is a very clean dataset, however it has a very uneven amount of fraudulent and non fraudulent data and this can very easly skew the algorithm
 ## Code and Resources Used 
 **Python Version:** 3.9  <br>
-**Packages:** ipykernel,pandas,numpy,sklearn, matplotlib, seaborn <br>
+**Packages:** ipykernel, pandas, numpy, sklearn, matplotlib, seaborn <br>
 **Requirements:**  ```pip install -r requirements.txt```  <br>
 **Data Frame Credit card** https://www.kaggle.com/mlg-ulb/creditcardfraud
 **Data Frame heart disease**https://www.kaggle.com/ronitf/heart-disease-uci
