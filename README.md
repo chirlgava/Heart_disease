@@ -28,8 +28,10 @@ We used 4 types of classifier to predict data:
 <li>KNears Neighbors:  0.996</li>
 <li>Support Vector Classifier:  1.0</li>
 <li>Decision Tree Classifier:  0.996</li>
-</ol> 
-**Learning Curves:** <br>
+</ol>
+
+**Learning Curves:** 
+<br>
  <img src="https://github.com/chirlgava/Credit_card/blob/main/figures/learning_curves.png" alt="Learning curve"> 
 
 **Model evaluation using test data:** <br>
