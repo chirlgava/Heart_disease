@@ -13,5 +13,7 @@ This is a very clean dataset, however it has a very uneven amount of fraudulent 
 **Support jupternotebook**https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
 
 
-## Data_analysis.ipynb
-Contains a data analysis based on janiobachmann jupyter notebook on credit card
+## Heart_data_analysis.ipynb
+Contains a data analysis based on janiobachmann jupyter notebook but on heart.csv data about heart disease
+## Heart_data_ml
+contains a machine learning approach to classify heart disease with the given data
