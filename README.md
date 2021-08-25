@@ -30,7 +30,8 @@ We used 4 types of classifier to predict data:
 <li>Decision Tree Classifier:  0.996</li>
 </ol> 
 **Learning Curves:** <br>
- <img src="https://github.com/chirlgava/Credit_card/blob/main/figures/learning_curves.png" alt="Girl in a jacket"> 
+ <img src="https://github.com/chirlgava/Credit_card/blob/main/figures/learning_curves.png" alt="Learning curve"> 
 
 **Model evaluation using test data:** <br>
-![test image](https://github.com/chirlgava/Credit_card/blob/main/figures/model_evaluation.png)
+ <img src="https://github.com/chirlgava/Credit_card/blob/main/figures/model_evaluation.png" alt="Positive/Negative test"> 
+
