@@ -1,7 +1,7 @@
 # Credit_card
  This is a classification machine learning problem to detect fraudulent purshases.<br>
  This code is heavly based on the code made by janiobachmann from kaggle, if you want a more in depth explanation, please go to his notebook,<br>
- my objective here is to learn from janiobachmann and others to solve this problem and them apply the earned skills and methodology on another dataset.
+ my objective here is to learn from janiobachmann and apply his methodology on another dataset.
 ## Challenges
 This is a very clean dataset, however it has a very uneven amount of fraudulent and non fraudulent data and this can very easly skew the algorithm
 ## Code and Resources Used 
