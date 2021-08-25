@@ -15,8 +15,8 @@ This is a very clean dataset, however it has a very uneven amount of fraudulent 
 
 ## Heart_data_analysis.ipynb
 Contains a data analysis based on janiobachmann jupyter notebook but on heart.csv data about heart disease<br>
-We analyse the data distribution and how it correlates with the target and made changes when deemed necessary.
-![alt text]https://github.com/chirlgava/Heart_disease/blob/main/figures/correlation.png)<br>
+We analyse the data distribution and how it correlates with the target and made changes when deemed necessary.<br>
+ <img src="https://github.com/chirlgava/Heart_disease/blob/main/figures/correlation.png" alt="correlation"> <br>
 From the picture above we learned the variables that are more likely to influence our data like: ['cp','thalach','slope'] (positive correlation) <br>
 and ['exang','oldpeak','ca'] (negative correlation)
 
