@@ -14,6 +14,22 @@ This is a very clean dataset, however it has a very uneven amount of fraudulent 
 
 
 ## Heart_data_analysis.ipynb
-Contains a data analysis based on janiobachmann jupyter notebook but on heart.csv data about heart disease
+Contains a data analysis based on janiobachmann jupyter notebook but on heart.csv data about heart disease<br>
+We analyse the data distribution and how it correlates with the target and made changes when deemed necessary.
+![alt text](https://github.com/chirlgava/Credit_card/blob/main/figures/correlation.png)
+From the picture above we learned the variables that are more likely to influence our data like: ['cp','thalach','slope'] (positive correlation) <br>
+and ['exang','oldpeak','ca'] (negative correlation)
+
 ## Heart_data_ml
-contains a machine learning approach to classify heart disease with the given data
+Contains a machine learning approach to classify heart disease with the given data <br>
+We used 4 types of classifier to predict data: 
+<ol>
+<li>Logistic Regression:  0.9999157894736842</li>
+<li>KNears Neighbors:  0.996</li>
+<li>Support Vector Classifier:  1.0</li>
+<li>Decision Tree Classifier:  0.996</li>
+</ol> 
+**Learning Curves:**
+![alt text](https://github.com/chirlgava/Credit_card/blob/main/figures/learning_curves.png)
+**Model evaluation using test data:**
+![alt text](https://github.com/chirlgava/Credit_card/blob/main/figures/model_evaluation.png)
